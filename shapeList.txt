@@ -1,0 +1,5 @@
+triangle
+square
+rectangle
+circle
+trapezoid
